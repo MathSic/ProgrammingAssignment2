@@ -1,6 +1,6 @@
 ## Those two functions implement a special matrix
 ## able to chache the inverse of its value ad an other
-## unction making use of this feature
+## function making use of this feature
 
 ## creates a special matrix able to chache the inverse of its value
 
